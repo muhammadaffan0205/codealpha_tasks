@@ -30,10 +30,10 @@ This repository documents every project and task assigned during my internship. 
 
 | No. | Project | Status |
 |:---:|---------|:------:|
-| 01 | 🔄 Coming Soon | ⏳ Pending |
-| 02 | 🔄 Coming Soon | ⏳ Pending |
-| 03 | 🔄 Coming Soon | ⏳ Pending |
-| 04 | 🔄 Coming Soon | ⏳ Pending |
+| 01 | 🔄 Completed | ⏳ Done |
+| 02 | 🔄 Completed | ⏳ Done |
+| 03 | 🔄 Completed | ⏳ Done |
+| 04 | 🔄 Completed | ⏳ Done |
 
 > The table will be updated as I complete each task.
 
